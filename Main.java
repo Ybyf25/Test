@@ -4,7 +4,6 @@ import java.io.File;
 import java.io.*;
 import java.util.Scanner;
 
-
 public class Main {
     static int min = 2;
     static String errorText = "Ошибка ввода. Введите корректное число.";
